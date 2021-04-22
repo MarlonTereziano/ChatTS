@@ -5,7 +5,7 @@ const app = express(); // determina a aplicação com o nome app, recebendo a bi
 
 //Get busca
 //Post Cria
-// put Alteração
+//put Alteração
 // del delete
 //Patch alteração específica
 
